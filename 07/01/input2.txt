@@ -1,0 +1,184 @@
+shiny gold [shiny orange mirrored crimson drab blue dark aqua mirrored purple]
+shiny orange [pale aqua plaid gray drab maroon dim gray dotted lime]
+pale aqua [mirrored gold plaid lime dim salmon faded orange wavy gold]
+mirrored gold [dark maroon dotted olive faded chartreuse]
+dark maroon
+dotted olive [bright silver]
+bright silver
+faded chartreuse
+plaid lime
+dim salmon [posh lavender mirrored lavender]
+posh lavender
+mirrored lavender [muted violet dotted black plaid yellow]
+muted violet [light lime dotted purple faded silver]
+light lime [light gold bright gold dull lime]
+light gold [mirrored red]
+mirrored red
+bright gold
+dull lime [striped red drab olive]
+striped red [bright silver plaid white]
+bright silver
+plaid white [posh coral]
+posh coral [dim aqua]
+dim aqua
+drab olive [dotted salmon]
+dotted salmon [wavy beige]
+wavy beige [striped cyan]
+striped cyan [wavy lavender]
+wavy lavender
+dotted purple
+faded silver
+dotted black
+plaid yellow
+faded orange
+wavy gold [mirrored purple]
+mirrored purple [bright lavender]
+bright lavender [posh purple vibrant lavender dotted olive dull gray]
+posh purple [shiny purple]
+shiny purple [faded olive]
+faded olive
+vibrant lavender [vibrant orange plaid teal]
+vibrant orange
+plaid teal
+dotted olive [bright silver]
+bright silver
+dull gray [muted gray]
+muted gray
+plaid gray [dull salmon light olive muted gray striped aqua dotted lavender]
+dull salmon
+light olive [shiny salmon pale blue vibrant purple dark cyan]
+shiny salmon [dull green]
+dull green
+pale blue
+vibrant purple
+dark cyan [faded blue]
+faded blue [plaid magenta]
+plaid magenta
+muted gray
+striped aqua
+dotted lavender [mirrored white dotted aqua mirrored lime]
+mirrored white [drab red]
+drab red
+dotted aqua
+mirrored lime [dim chartreuse vibrant brown]
+dim chartreuse [mirrored chartreuse]
+mirrored chartreuse
+vibrant brown [clear turquoise]
+clear turquoise [pale violet]
+pale violet
+drab maroon [shiny cyan dull white plaid silver striped lime]
+shiny cyan [mirrored yellow]
+mirrored yellow
+dull white [shiny magenta muted plum mirrored lime]
+shiny magenta [muted salmon]
+muted salmon
+muted plum [shiny gray]
+shiny gray [mirrored beige plaid tomato]
+mirrored beige
+plaid tomato
+mirrored lime [dim chartreuse vibrant brown]
+dim chartreuse [mirrored chartreuse]
+mirrored chartreuse
+vibrant brown [clear turquoise]
+clear turquoise [pale violet]
+pale violet
+plaid silver [pale indigo posh beige]
+pale indigo [shiny beige dull plum bright turquoise dull tomato clear green muted red]
+shiny beige
+dull plum [clear gold wavy blue light turquoise]
+clear gold
+wavy blue [dotted coral]
+dotted coral [dotted magenta]
+dotted magenta
+light turquoise [dark yellow shiny tomato]
+dark yellow
+shiny tomato
+bright turquoise
+dull tomato
+clear green
+muted red [muted aqua vibrant purple dark cyan]
+muted aqua
+vibrant purple
+dark cyan [faded blue]
+faded blue [plaid magenta]
+plaid magenta
+posh beige [plaid chartreuse dotted violet]
+plaid chartreuse
+dotted violet
+striped lime [faded magenta dark brown]
+faded magenta [dotted gray]
+dotted gray
+dark brown [muted coral]
+muted coral [dotted black]
+dotted black
+dim gray [posh green]
+posh green [vibrant blue muted salmon muted orange]
+vibrant blue
+muted salmon
+muted orange
+dotted lime [faded plum]
+faded plum [shiny cyan]
+shiny cyan [mirrored yellow]
+mirrored yellow
+mirrored crimson [faded salmon dull lime wavy violet faded orange striped beige dim beige]
+faded salmon [muted lavender muted violet]
+muted lavender
+muted violet [light lime dotted purple faded silver]
+light lime [light gold bright gold dull lime]
+light gold [mirrored red]
+mirrored red
+bright gold
+dull lime [striped red drab olive]
+striped red [bright silver plaid white]
+bright silver
+plaid white [posh coral]
+posh coral [dim aqua]
+dim aqua
+drab olive [dotted salmon]
+dotted salmon [wavy beige]
+wavy beige [striped cyan]
+striped cyan [wavy lavender]
+wavy lavender
+dotted purple
+faded silver
+dull lime [striped red drab olive]
+striped red [bright silver plaid white]
+bright silver
+plaid white [posh coral]
+posh coral [dim aqua]
+dim aqua
+drab olive [dotted salmon]
+dotted salmon [wavy beige]
+wavy beige [striped cyan]
+striped cyan [wavy lavender]
+wavy lavender
+wavy violet [drab orange dark yellow faded olive]
+drab orange [wavy gray]
+wavy gray
+dark yellow
+faded olive
+faded orange
+striped beige [posh black dim tomato]
+posh black [shiny lime]
+shiny lime
+dim tomato
+dim beige [dark silver clear silver]
+dark silver [dark blue]
+dark blue
+clear silver
+drab blue [wavy silver]
+wavy silver [shiny aqua]
+shiny aqua
+dark aqua
+mirrored purple [bright lavender]
+bright lavender [posh purple vibrant lavender dotted olive dull gray]
+posh purple [shiny purple]
+shiny purple [faded olive]
+faded olive
+vibrant lavender [vibrant orange plaid teal]
+vibrant orange
+plaid teal
+dotted olive [bright silver]
+bright silver
+dull gray [muted gray]
+muted gray
